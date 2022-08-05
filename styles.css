@@ -1,0 +1,22 @@
+body {
+  background-color:rgb(178, 211, 183) ;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 7%;
+  height: 5%;
+  border-width: 10px;
+  border-color: rgb(133, 200, 130)
+  ;
+}
+h1,
+h3,
+h2 {
+  color: #325835;
+}
+.para{
+    color:rgb(64, 111, 64) ;
+}
+
+
