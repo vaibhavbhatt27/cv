@@ -13,6 +13,12 @@
   left:500px;
   bottom: 150px;
 }
+.mountain_image {
+  padding: 0%;
+  width: 1200px;
+  position: relative;
+  bottom: 150px;
+}
 .one {
   display: inline-block;
   position: relative;
