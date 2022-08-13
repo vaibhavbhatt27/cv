@@ -1,0 +1,42 @@
+.heading{
+    font-family:Sacramento;
+    font-size: large;
+    padding:0;
+    display: inline-block;
+    position: absolute;
+    top: 15px;
+    left: 10px;
+    color: #295734;
+}
+.header1{
+    font-family:hatton ;
+    display: inline-block;
+    position: absolute;
+    top:3px;
+    color: #BC1823;
+}
+.header2{
+    font-family:hatton ;
+    display: inline-block;
+    position: absolute;
+    top: 33px;
+    color: #BC1823;
+}
+.boy-on-front-page{
+    width: 200px;
+    position: absolute;
+    left:150px;
+    top: 0px;
+}
+body{
+    background-color: #79B88F;
+}
+.road-map{
+    width: 100px;
+    position: absolute;
+    top: 50px;
+
+}
+
+
+
